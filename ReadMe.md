@@ -28,7 +28,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On (Snappy), Combiner off
 4. Number of Reducers 8, Intermediate Compression On (Snappy), Combiner off
 
-![*Group 02_1990*](/itmd-521/Week-09/Images/Exp2_1990.PNG "Group2_1990")
+![*Group 02_1990*](/Images/Exp2_1990.PNG "Group2_1990")
 
 **Conclusion**
 
@@ -47,7 +47,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On (Snappy), Combiner on
 4. Number of Reducers 8, Intermediate Compression On (Snappy), Combiner on
 
-![*Group 03_1990*](/itmd-521/Week-09/Images/Exp3_1990.PNG "Group3_1990")
+![*Group 03_1990*](/Images/Exp3_1990.PNG "Group3_1990")
 
 **Conclusion**
 
@@ -66,7 +66,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On, (Gzip) Combiner off
 4. Number of Reducers 8, Intermediate Compression On, (Gzip) Combiner off
 
-![*Group 04_1990*](/itmd-521/Week-09/Images/Exp4_1990.PNG "Group4_1990")
+![*Group 04_1990*](/Images/Exp4_1990.PNG "Group4_1990")
 
 **Conclusion**
 
@@ -86,7 +86,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On, (Gzip) Combiner on
 4. Number of Reducers 8, Intermediate Compression On, (Gzip) Combiner on
 
-![*Group 05_1990*](/itmd-521/Week-09/Images/Exp5_1990.PNG "Group5_1990")
+![*Group 05_1990*](/Images/Exp5_1990.PNG "Group5_1990")
 
 
 **Conclusion**
@@ -105,7 +105,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression off, Combiner off
 4. Number of Reducers 8, Intermediate Compression off, Combiner off
 
-![*Group 01_80*](/itmd-521/Week-09/Images/Group1_80.PNG "Group1_80")
+![*Group 01_80*](/Images/Group1_80.PNG "Group1_80")
 
 
 **Conclusion:**
@@ -125,7 +125,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On (Snappy), Combiner off
 4. Number of Reducers 8, Intermediate Compression On (Snappy), Combiner off
 
-![*Group 02_80*](/itmd-521/Week-09/Images/group2_80.PNG "Group2_80")
+![*Group 02_80*](/Images/group2_80.PNG "Group2_80")
 
 **Conclusion**
 
@@ -145,7 +145,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On (Snappy), Combiner on
 4. Number of Reducers 8, Intermediate Compression On (Snappy), Combiner on
 
-![*Group 03_80*](/itmd-521/Week-09/Images/Group3_80.PNG "Group3_80")
+![*Group 03_80*](/Images/Group3_80.PNG "Group3_80")
 
 **Conclusion**
 
@@ -165,7 +165,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On, (Gzip) Combiner off
 4. Number of Reducers 8, Intermediate Compression On, (Gzip) Combiner off
 
-![*Group 04_80*](/itmd-521/Week-09/Images/Group4_80.PNG "Group4_80")
+![*Group 04_80*](/Images/Group4_80.PNG "Group4_80")
 
 **Conclusion**
 
@@ -184,7 +184,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On, (Gzip) Combiner on
 4. Number of Reducers 8, Intermediate Compression On, (Gzip) Combiner on
 
-![*Group 05_80*](/itmd-521/Week-09/Images/Group5_80.PNG "Group5_80")
+![*Group 05_80*](/Images/Group5_80.PNG "Group5_80")
 
 
 Conclusion**
@@ -203,7 +203,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression off, Combiner off
 4. Number of Reducers 8, Intermediate Compression off, Combiner off
 
-![*Group 01_80-90*](/itmd-521/Week-09/Images/Group1_80-90.PNG "Group1_80-90")
+![*Group 01_80-90*](/Images/Group1_80-90.PNG "Group1_80-90")
 
 
 **Conclusion:**
@@ -223,7 +223,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On (Snappy), Combiner off
 4. Number of Reducers 8, Intermediate Compression On (Snappy), Combiner off
 
-![*Group 02_80-90*](/itmd-521/Week-09/Images/Group2_80-90.PNG "Group2_80-90")
+![*Group 02_80-90*](/Images/Group2_80-90.PNG "Group2_80-90")
 
 **Conclusion**
 
@@ -241,7 +241,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On (Snappy), Combiner on
 4. Number of Reducers 8, Intermediate Compression On (Snappy), Combiner on
 
-![*Group 03_80-90*](/itmd-521/Week-09/Images/Group3_80-90.PNG "Group3_80-90")
+![*Group 03_80-90*](/Images/Group3_80-90.PNG "Group3_80-90")
 
 **Conclusion**
 
@@ -260,7 +260,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On, (Gzip) Combiner off
 4. Number of Reducers 8, Intermediate Compression On, (Gzip) Combiner off
 
-![*Group 04_80-90*](/itmd-521/Week-09/Images/Group4_80-90.PNG "Group4_80-90")
+![*Group 04_80-90*](/Images/Group4_80-90.PNG "Group4_80-90")
 
 **Conclusion**
 
@@ -282,7 +282,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression On, (Gzip) Combiner on
 4. Number of Reducers 8, Intermediate Compression On, (Gzip) Combiner on
 
-![*Group 05_80-90*](/itmd-521/Week-09/Images/Group5_80-90.PNG "Group5_80-90")
+![*Group 05_80-90*](/Images/Group5_80-90.PNG "Group5_80-90")
 
 
 **Conclusion**
@@ -294,7 +294,7 @@ Similar to the explanation I gave in Group 5 for 80 dataset, it seems the combin
 
 ### Task Group 01 Analysis
 
-![*Group 01*](/itmd-521/Week-09/Images/Group1.PNG "Group1")
+![*Group 01*](/Images/Group1.PNG "Group1")
 
 Analyze and explain the execution time results accross per task group accross the three datasets. With graphs.
 
@@ -304,7 +304,7 @@ Here although the file size has increased, the trend mentioned above is valid.
 
 ### Task Group 02 Analysis
 
-![*Group 02*](/itmd-521/Week-09/Images/Group2.PNG "Group2")
+![*Group 02*](/Images/Group2.PNG "Group2")
 
 Analyze and explain the execution time results accross per task group accross the three datasets.With graphs.
 
@@ -314,7 +314,7 @@ Here although the trend is clearly visible in the 2 large datasets, the smaller 
 
 ### Task Group 03 Analysis
 
-![*Group 03*](/itmd-521/Week-09/Images/Group3.PNG "Group3")
+![*Group 03*](/Images/Group3.PNG "Group3")
 
 Analyze and explain the execution time results accross per task group accross the three datasets.With graphs.
 
@@ -326,7 +326,7 @@ Here, too although the file size has increased the trend mentioned above is stil
 
 ### Task Group 04 Analysis
 
-![*Group 04*](/itmd-521/Week-09/Images/Group4.PNG "Group4")
+![*Group 04*](/Images/Group4.PNG "Group4")
 
 Analyze and explain the execution time results accross per task group accross the three datasets.With graphs.
 
@@ -339,7 +339,7 @@ For large dataset it would be due to competing resources by other students runni
 
 ### Task Group 05 Analysis
 
-![*Group 05*](/itmd-521/Week-09/Images/Group5.PNG "Group5")
+![*Group 05*](/Images/Group5.PNG "Group5")
 
 Analyze and explain the execution time results accross per task group accross the three datasets. With graphs.
 
