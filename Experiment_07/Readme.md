@@ -1,0 +1,1 @@
+Number of Reducers 4, Intermediate Compression On (Snappy), Combiner off

@@ -1,0 +1,1 @@
+Number of Reducers 1, Intermediate Compression off, Combiner of

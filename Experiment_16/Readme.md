@@ -1,0 +1,1 @@
+Number of Reducers 8, Intermediate Compression On, (Gzip) Combiner off
