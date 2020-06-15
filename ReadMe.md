@@ -9,7 +9,7 @@ Parameters:
 3. Number of Reducers 4, Intermediate Compression off, Combiner off
 4. Number of Reducers 8, Intermediate Compression off, Combiner off
 
-![*Group 01_1990*](/itmd-521/Week-09/Images/Exp1_1990.PNG "Group1_1990")
+![*Group 01_1990*](/Images/Exp1_1990.PNG "Group1_1990")
 
 
 **Conclusion:**
